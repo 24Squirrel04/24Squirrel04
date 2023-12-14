@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A35DF7&random=false&width=435&lines=%D0%97%D0%B4%D1%80%D0%B0%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+Squirrel;%D0%98+%D1%8F+Backend+Python+Developer+)](https://git.io/typing-svg)
-
 ![Snake animation](https://github.com/24Squirrel04/24Squirrel04/blob/output/github-contribution-grid-snake.svg)
 
