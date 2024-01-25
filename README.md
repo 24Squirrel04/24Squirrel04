@@ -25,6 +25,13 @@ This is a quote from my favorite movie [The Martian](https://en.wikiquote.org/wi
 > next one... and then the next. And If you solve enough  
 > problems, you get to come home. All right, questions?
 
+## Public
+
+At the moment, there is only 1 project in public repositories:
+
+- [E32_433t30d_Data_transmission](https://github.com/24Squirrel04/E32_433t30d_Data_transmission.git) - This project is not related to the work of its author! And published for educational purposes only. Because This project does not contain a large number of files and does not relate to the development of any service. There may be both a discrepancy with PEP8 and a lack of use of basic development practices.
+  
+&nbsp;
 ## Contact
 
 All projects I have developed in private repositories. If for some reason you need access to 1 of them, you can contact me at the following contacts:
