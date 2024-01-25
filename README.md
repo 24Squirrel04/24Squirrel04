@@ -24,7 +24,8 @@ This is a quote from my favorite movie [The Martian](https://en.wikiquote.org/wi
 > You do the math. You solve one problem... and you solve the  
 > next one... and then the next. And If you solve enough  
 > problems, you get to come home. All right, questions?
-
+  
+&nbsp;
 ## Public
 
 At the moment, there is only 1 project in public repositories:
