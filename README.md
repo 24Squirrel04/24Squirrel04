@@ -38,5 +38,8 @@ All projects I have developed in private repositories. If for some reason you ne
 
 - [Telegram](https://web.telegram.org/a/) - +7 909 648 8573
 - [Email](https://mail.google.com) - igorboldyrev77@gmail.com
+  
+&nbsp;
+> [!important]  
+> Due to the situation in the Russian Federation, the author's Twitter is temporarily unavailable.
 <!-- My current work experience is 1 year and 1 months. I'm a backend developer in Python.-->
-<!-- ![Snake animation](https://github.com/24Squirrel04/24Squirrel04/blob/output/github-contribution-grid-snake.svg) -->
