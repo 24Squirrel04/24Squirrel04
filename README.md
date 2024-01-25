@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://i.postimg.cc/mZVf4bdr/6-end.jpg)
 
 ![Snake animation](https://github.com/24Squirrel04/24Squirrel04/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/24Squirrel04/24Squirrel04/blob/output/github-contribution-grid-snake.gif)
